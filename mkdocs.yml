@@ -1,11 +1,11 @@
-site_name: "IELTS BẰNG NIỀM TIN"
+site_name: "Làm web 0 đồng"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://dreamielts.github.io/
+site_url: https://dangkhoa1504blog.github.io/dangkhoa1504blog/
 
-site_description: IELTS BẰNG NIỀM TIN
-site_author: haihabk51
+site_description: Làm web 0 đồng
+site_author: vanhienice
 
-repo_url: https://github.com/dreamielts/dreamielts.github.io/
+repo_url: https://dangkhoa1504blog.github.io/dangkhoa1504blog/
 
 
 theme:
